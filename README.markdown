@@ -34,4 +34,4 @@ Author
 ------
 
 Shawn Anderson <shawn42+chipmunk@gmail.com>
-Philomory http://github.com/philomory 
+Adam Gardner <adambg+chipmunk@gmail.com>
